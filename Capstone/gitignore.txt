@@ -1,0 +1,3 @@
+.env
+campuslink.sqlite3
+campuslink.sqlite3-*
